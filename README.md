@@ -107,7 +107,7 @@
 
  <h4>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴜᴋᴏ🚀</h4>
 <pre><i>ᴇɴᴛᴇʀ ᴛʜᴇ ʀᴇǫᴜɪʀᴇᴅ ᴠᴀʀs ɪɴ ᴛʜᴇ ʜᴇʀᴜᴋᴏ.</i></pre>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Noob-mukesh/chatgpt-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/mahtoanjali/Anjali-Chatgpt-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs/ʟᴏᴄᴀʟ 」─
@@ -118,7 +118,7 @@
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/Noob-mukesh/Chatgpt-bot/blob/main/config.py)
+- Get your [Necessary Variables](https://github.com/mahtoanjali/Anjali-Chatgpt-bot/blob/main/config.py)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
@@ -126,7 +126,7 @@
 - Install pip by :
 `sudo pip3 install -U pip`
 - Clone the repository by :
-`git clone https://github.com/Noob-Mukesh/Chatgpt-bot`
+`git clone https://github.com/mahtoanjali/Anjali-Chatgpt-bot`
 - Install/Upgrade setuptools by :
 `pip3 install --upgrade pip setuptools`
 - Install requirements by :
@@ -150,7 +150,7 @@ Press `Ctrl+b` and then `d`</details>
 <details>
 <summary>sᴀᴍᴘʟᴇ ʙᴏᴛ✨</summary>
 <i> ᴀʟʟ ᴛʜᴇ ᴄᴜsᴛᴏᴍɪsᴀᴛɪᴏɴs ʟɪᴋᴇ ᴅɪғғᴇʀᴇɴᴛ sᴛᴀʀᴛ ɪᴍᴀɢᴇs ᴀɴᴅ ᴅɪғғᴇʀᴇɴᴛ sᴛɪᴄᴋᴇʀs ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ. ᴢsᴛ ᴄʜᴇᴀᴋ ᴛʜᴇ ᴠᴀʀs ᴀɴᴅ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ.</i>
-<p align="center"><a href="https://t.me/CHATGPTAI_TG_BOT"> <img src="https://img.shields.io/badge/Sample%20Bot-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/QUEENx_GOD"> <img src="https://img.shields.io/badge/Sample%20Bot-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
 </details>
 
 
@@ -163,8 +163,8 @@ Press `Ctrl+b` and then `d`</details>
 
 ### ᴄʀᴇᴅɪᴛs 
 # 
-<b> [─╼⃝𖠁 ᴍᴜᴋᴇsʜ 𖠁⃝╾─•](https://telegram.me/legend_coder) <br> <br>
- [­ 𝔼𝕣𝕖𝕟](https://telegram.me/WH0907)  </br> <br>
+<b> [𓆩 ᴍᴧʜᴛᴏ ✗ ᴧɴᴊᴀʟɪ 𓆪](https://telegram.me/QUEENx_GOD) <br> <br>
+ [­ 𝔼𝕣𝕖𝕟](https://telegram.me/QUEENx_GOD)  </br> <br>
 
 <p><i> ᴅᴏɴ'ᴛ  ғᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ ᴛʜᴇ  ꜱᴛᴀʀ </i></p>
 
